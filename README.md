@@ -38,13 +38,4 @@ State transitions depend on the opcode and instruction class.
 - End-to-end simulation with waveform inspection
 - Verified correct behavior for arithmetic, memory, and control-flow instructions
 
-## What I Learned
-- Designing multicycle control FSMs
-- Separating datapath and control logic
-- Debugging RTL using waveforms
-- Understanding instruction-level timing
 
-## Future Improvements
-- Pipeline implementation
-- Hazard detection
-- Instruction/data cache separation
